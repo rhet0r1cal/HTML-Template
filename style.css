@@ -1,0 +1,25 @@
+/* Core CSS Code. Should only contain base elements */
+html {
+    width: 100%;
+    height: 100%;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Variables and Data */
+:root {
+    --white: #ffff;
+}
+
+/* Classes and Multiple Elements */
+.flexbox-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Font Families and Handlers */
+
+/* ID's and Specific Elements */
+
+/* Keyframes and Animations */
